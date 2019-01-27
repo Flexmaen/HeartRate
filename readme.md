@@ -4,7 +4,7 @@ Heart rate monitor
 A lightweight program to display the heart rate reading from a 
 [Bluetooth Low Energy device](https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.characteristic.heart_rate_measurement.xml).
 
-This has only been tested on a [Polar H7](https://www.amazon.com/dp/B007S088F4) (non-referral link) but others should work.
+This has only been tested on a [Polar H7](https://www.amazon.com/dp/B007S088F4), and a [CooSpo HRM H6](https://www.amazon.com/dp/B071R6P16J) (non-referral links) but others should work.
 
 Requires Windows 8.1 or newer.
 
